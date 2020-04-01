@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:color="@color/color_tv_home" />
+    <item
+        android:id="@+id/activity"
+        android:icon="@drawable/ic_bookmark"
+        android:title="Activity"
+        app:color="@color/color_tv_bookmark" />
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/ic_favourite"
+        android:title="Favorites"
+        app:color="@color/color_tv_favourite" />
+<!--    <item-->
+<!--        android:id="@+id/settings"-->
+<!--        android:icon="@drawable/ic_settings"-->
+<!--        android:title="Settings"-->
+<!--        app:color="@color/color_tv_profile" />-->
+</menu>

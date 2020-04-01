@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_bg_home">#E8EAF6</color>
+    <color name="color_tv_home">#673AB7</color>
+    <color name="color_bg_favourite">#E0F2F1</color>
+    <color name="color_tv_favourite">#03A9F4</color>
+    <color name="color_bg_bookmark">#E8F5E9</color>
+    <color name="color_tv_bookmark">#FF5722</color>
+    <color name="color_bg_profile">#FFF8E1</color>
+    <color name="color_tv_profile">#4CAF50</color>
+
+</resources>
